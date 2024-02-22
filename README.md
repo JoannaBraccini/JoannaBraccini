@@ -26,9 +26,7 @@
 ### Hard Skills:
 - ![Introdução à Computação](https://img.shields.io/badge/Introdução_à_Computação-%234164F3?style=flat-square&logoColor=white&labelColor=234164F3)
 - ![HTML](https://img.shields.io/badge/HTML-%23E44D26?style=flat-square&logo=html5&logoColor=white&labelColor=E44D26)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 - ![CSS (Fundamentos)](https://img.shields.io/badge/CSS_%28Fundamentos%29-%231572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=563D7C)
 - ![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-%2314354C?style=flat-square&labelColor=14354C)
