@@ -7,16 +7,21 @@
 </p>
 <br>
 
-## Sobre Mim 🚀
+<h2>Sobre Mim 🚀</h2>
 
-Olá! 👋 Sou Joanna Braccini, musicista e entusiasta da tecnologia e do desenvolvimento de software.
-  - Migrando de carreira, da música para Developer Full Stack.
+<p>
+  Olá! 👋 Sou Joanna Braccini, musicista e entusiasta da tecnologia e do desenvolvimento de software.
+    - Migrando de carreira, da música para Developer Full Stack.
+</p>
 
-## Dev Full Stack em formação! 💻
+<h2>Dev Full Stack em formação! 💻</h2>
+
 ![CatTypingGIF](https://github.com/JoannaBraccini/JoannaBraccini/assets/47434139/a715392d-3566-48f5-a20b-3bb800951d50)
+
 ### Aluna da 19ª turma <em>Starter Web Full Stack</em> na [Growdev](https://www.growdev.com.br/).
 
-## O que estou aprendendo 📚
+<hr>
+<h2 align='center'>O que estou aprendendo 📚</h3>
 
 ### Hard Skills:
 - ![Introdução à Computação](https://img.shields.io/badge/Introdução_à_Computação-%234164F3?style=flat-square&logoColor=white&labelColor=234164F3)
@@ -39,7 +44,7 @@ Olá! 👋 Sou Joanna Braccini, musicista e entusiasta da tecnologia e do desenv
 - 🤲 Responsabilidade
 - 🤝 Envolvimento
 
-##
+<hr>
 
 <div align="center">
   <a href="https://www.instagram.com/joannabraccini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -50,22 +55,20 @@ Olá! 👋 Sou Joanna Braccini, musicista e entusiasta da tecnologia e do desenv
   <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api?username=JoannaBraccini&&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=C71585&text_color=DB7093&bg_color=0d1117"   alt="Joanna Braccini" />  
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannaBraccini&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" alt="top-langs" />
 </div>
- 
+
 <div align="center">
-##
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-##
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
