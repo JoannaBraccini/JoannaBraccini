@@ -10,7 +10,8 @@
 <h2>Sobre Mim 🚀</h2>
 
 <p>
-  Olá! 👋 Sou Joanna Braccini, musicista e entusiasta da tecnologia e do desenvolvimento de software. Migrando de carreira, da música para Developer Full Stack.
+  Olá! 👋 Sou Joanna Braccini, musicista e entusiasta da tecnologia e do desenvolvimento de software. <br>
+  Migrando de carreira, da música para Developer Full Stack. Estudando muito nas horas vagas 😌
 </p>
 
 <h2>Dev Full Stack em formação! 💻</h2>
