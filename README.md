@@ -45,14 +45,23 @@
 
 <hr>
 
-<h2 align="center">Contatos e Links</h2>
+<h2 align="center">Contato</h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/joannabraccini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
 </div>
+<hr>
 
 <div align="center">
-  <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api?username=JoannaBraccini&&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=C71585&text_color=DB7093&bg_color=0d1117" alt="Joanna Braccini" />  
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannaBraccini&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" alt="top-langs" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoannaBraccini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoannaBraccini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoannaBraccini&repo=Growflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoannaBraccini/Growflix)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoannaBraccini&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
