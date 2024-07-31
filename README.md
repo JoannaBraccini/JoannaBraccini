@@ -41,7 +41,8 @@
 
 <h2 align='center'>O que estou aprendendo 📚</h2>
 
-- [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+- ![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)
+- ![POO](https://img.shields.io/badge/POO-%234164F3?style=flat-square&logoColor=white&labelColor=E44D26)
 
 <hr>
 
