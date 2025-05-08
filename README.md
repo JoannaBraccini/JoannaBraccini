@@ -18,7 +18,7 @@
         Engenheira de Software 🎓
       </td>
       <td align="center">
-        <img src="https://github.com/JoannaBraccini/prompts-for-podcast-generate-by-ia/blob/main/src/devpixel.png?raw=true" alt="Joanna dev pixel art" width="300">
+        <img src="https://github.com/JoannaBraccini/prompts-for-podcast-generate-by-ia/blob/main/src/devpixel.png" alt="Joanna dev pixel art" width="300">
       </td>
     </tr>
   </table>
