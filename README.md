@@ -56,7 +56,7 @@
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
-| Starter Web Full Stack                                        | Growdev                | 1 ano         | [Ver certificado](https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing) |
+| Starter Web Full Stack                                        | Growdev                | 1 ano         | <a href="https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Ver certificado</a> |
 
 
 ---
