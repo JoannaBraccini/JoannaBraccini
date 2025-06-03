@@ -56,7 +56,15 @@
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
-| Starter Web Full Stack                                        | Growdev                | 1 ano         | <a href="https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Ver certificado</a> |
+| Inglês Intermediário | Official EF SET |---------------| [Ver certificado](https://cert.efset.org/jAcnds) |
+| Starter Web Full Stack | Growdev | 1 ano | [Ver certificado](https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing) |
+| Introdução ao Mundo dos Dados | Preditiva.ai | 7 horas | [Ver certificado](https://automacoes.s3.us-east-1.amazonaws.com/certificados/am9hbm5hYnJhY2NpbmlAZ21haWwuY29t-0.pdf) |
+| Análise de Dados e Inteligência de Negócios | Gran Faculdade | 30 horas | [Ver certificado](https://acrobat.adobe.com/id/urn:aaid:sc:US:fac00bfe-9267-4006-971a-fab5e875646b) |
+| Microsoft 50 Anos - Computação em Nuvem com Azure | DIO & Microsoft | 15 horas | [Ver certificado](https://www.dio.me/certificate/LOVAMY8Q/share) |
+| Microsoft 50 Anos - GitHub Copilot | DIO & Microsoft | 17 horas | [Ver certificado](https://www.dio.me/certificate/B95PJOQQ/share) |
+| Microsoft 50 Anos - Prompts Inteligentes | DIO & Microsoft | 15 horas | [Ver certificado](https://www.dio.me/certificate/PEPXCEUC/share) |
+| Desenvolvimento Java com IA | DIO & GFT | 60 horas | [Ver certificado](https://www.dio.me/certificate/IIVUNR8A/share) |
+| Clean Code | Rocketseat | 3 horas | [Ver certificado](https://app.rocketseat.com.br/certificates/4723b1f0-a92d-4a71-946c-335ef0299b01) |
 
 
 ---
