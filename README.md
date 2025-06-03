@@ -2,59 +2,77 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joannabraccini/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
-  <table align="center">
-    <tr>
-      <td align="left">
-        Formada na 19ª turma <em>Starter Web Full Stack</em> da <a href="https://www.growdev.com.br/" target="_blank" rel="noreferrer">Growdev</a>.<br>
-        Aluna de <em>Bacharelado em Engenharia de Software</em> na <a href="https://www.anhanguera.com/" target="_blank" rel="noreferrer">Anhanguera</a>.<br>
-        <br>
-        Atualmente estou migrando da carreira musical para <br>
-        Developer Full Stack e Engenharia de Software 🎓<br>
-        <br>
-        📍 <strong>Localização</strong>: São Leopoldo - RS
-      </td>
-      <td align="center">
-        <img src="https://github.com/JoannaBraccini/prompts-for-podcast-generate-by-ia/blob/main/src/devpixel.png" alt="Joanna dev pixel art" width="300">
-      </td>
-    </tr>
-  </table>
-  <br>
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JoannaBraccini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoannaBraccini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=JoannaBraccini&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/JoannaBraccini/Growflix">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoannaBraccini&repo=Growflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Repo Growflix" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/JoannaBraccini/ProjetoDiscover-Rocketseat_DevLinks">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoannaBraccini&repo=ProjetoDiscover-Rocketseat_DevLinks&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Repo ProjetoDiscover Rocketseat DevLinks" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/JoannaBraccini/Pokedex-FrontEnd">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoannaBraccini&repo=Pokedex-FrontEnd&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Repo Pokedex-FrontEnd" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/JoannaBraccini/prompts-for-podcast-generate-by-ia/blob/main/src/devpixel.png" alt="Joanna dev pixel art" width="250" />
 </p>
+
+### 👩‍💻 Sobre mim
+
+🎓 Formada na 19ª turma *Starter Web Full Stack* da [Growdev](https://www.growdev.com.br/)  
+📚 Aluna de *Engenharia de Software* na [Anhanguera](https://www.anhanguera.com/)  
+🎶 Migrando da carreira musical para a tecnologia  
+📍 **Localização**: São Leopoldo - RS
+
+---
+
+### 💼 Tecnologias que uso
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoannaBraccini&show_icons=true&theme=transparent&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannaBraccini&layout=compact&theme=transparent&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=JoannaBraccini&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🧠 Em aprendizado contínuo
+
+- Testes com Jest
+- Boas práticas de acessibilidade  
+- Engenharia de Software e arquitetura limpa  
+- Design System e documentação técnica
+
+---
+
+## 📜 Certificados
+
+| Curso                                                         | Plataforma             | Carga Horária | Certificado |
+|---------------------------------------------------------------|------------------------|---------------|-------------|
+| Starter Web Full Stack                                        | Growdev                | 1 ano         | [Ver certificado](https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing) |
+
+
+---
+
+### ✨ Projetos em Destaque
+
+🔹 [**Growflix**](https://github.com/JoannaBraccini/Growflix)  
+Interface clone da Netflix com foco em responsividade e integração com API.
+
+🔹 [**DevLinks**](https://github.com/JoannaBraccini/ProjetoDiscover-Rocketseat_DevLinks)  
+Landing page interativa com links personalizados e foco em portfólio.
+
+🔹 [**Pokedex**](https://github.com/JoannaBraccini/Pokedex-FrontEnd)  
+Catálogo de Pokémons com filtro, responsividade e consumo de API REST.
+
+---
 
 <p align="center">
   <picture>
