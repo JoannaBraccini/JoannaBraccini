@@ -1,4 +1,4 @@
-<h1 align="center">Joanna Braccini</h1>
+<h1 align="center">👋 Olá, eu sou a Joanna!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joannabraccini/">
@@ -9,25 +9,20 @@
   <table align="center">
     <tr>
       <td align="left">
-        Olá! 👋 Sou Joanna Braccini, <br>
-        musicista e entusiasta da tecnologia <br>
-        e do desenvolvimento de software. <br>
-        Atualmente estou migrando <br>
-        da carreira musical para <br>
-        Developer Full Stack e <br>
-        Engenheira de Software 🎓
+        Formada na 19ª turma <em>Starter Web Full Stack</em> da <a href="https://www.growdev.com.br/" target="_blank" rel="noreferrer">Growdev</a>.<br>
+        Aluna de <em>Bacharelado em Engenharia de Software</em> na <a href="https://www.anhanguera.com/" target="_blank" rel="noreferrer">Anhanguera</a>.<br>
+        <br>
+        Atualmente estou migrando da carreira musical para <br>
+        Developer Full Stack e Engenharia de Software 🎓<br>
+        <br>
+        📍 <strong>Localização</strong>: São Leopoldo - RS
       </td>
       <td align="center">
         <img src="https://github.com/JoannaBraccini/prompts-for-podcast-generate-by-ia/blob/main/src/devpixel.png" alt="Joanna dev pixel art" width="300">
       </td>
     </tr>
   </table>
-
-<h2 align="center">💻 Desenvolvedora Full Stack</h2>
-
-#### Formada na 19ª turma <em>Starter Web Full Stack</em> da [Growdev](https://www.growdev.com.br/).  
-#### Aluna de <em>Bacharelado em Engenharia de Software</em> na [Anhanguera](https://www.anhanguera.com/).
-
+  <br>
 <p align="center">
   <table>
     <tr>
