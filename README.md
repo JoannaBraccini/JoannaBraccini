@@ -26,11 +26,16 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
@@ -56,7 +61,10 @@
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
-| Inglês Intermediário | Official EF SET |---------------| [Ver certificado](https://cert.efset.org/jAcnds) |
+| DIO Campus Expert | DIO | 30 horas | [Ver certificado](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9iMmVlZTM1ODkxZjhmNTE5L0VVM2hBRXcwWGVkRXVlVGRpNDRWR1lFQjBYbzhBai1OYzZuSnFEcnRDdWw2dlE%5FZT12ZGswV20&cid=B2EEE35891F8F519&id=B2EEE35891F8F519%21s4c00e14d5d3444e7b9e4dd8b8e151981&parId=B2EEE35891F8F519%21103&o=OneUp) |
+| Formação CSS Web Developer | DIO | 43 horas | [Ver certificado](https://www.dio.me/certificate/MZJQXBUJ/share) |
+| WEX - End to End Engineering | DIO | 91 horas | [Ver certificado](https://www.dio.me/certificate/FYP8MBBY/share) |
+| Inglês Intermediário | Official EF SET | | [Ver certificado](https://cert.efset.org/jAcnds) |
 | Starter Web Full Stack | Growdev | 1 ano | [Ver certificado](https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing) |
 | Introdução ao Mundo dos Dados | Preditiva.ai | 7 horas | [Ver certificado](https://automacoes.s3.us-east-1.amazonaws.com/certificados/am9hbm5hYnJhY2NpbmlAZ21haWwuY29t-0.pdf) |
 | Análise de Dados e Inteligência de Negócios | Gran Faculdade | 30 horas | [Ver certificado](https://acrobat.adobe.com/id/urn:aaid:sc:US:fac00bfe-9267-4006-971a-fab5e875646b) |
@@ -69,16 +77,27 @@
 
 ---
 
-### ✨ Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-🔹 [**Growflix**](https://github.com/JoannaBraccini/Growflix)  
-Interface clone da Netflix com foco em responsividade e integração com API.
+💻 [**Growflix – Netflix Interface Clone**](https://growflix-tawny.vercel.app/)  
+🔗 [Código](https://github.com/JoannaBraccini/Growflix)  
+📌 Interface responsiva baseada na Netflix com integração de API e foco em UI/UX limpo.
 
-🔹 [**DevLinks**](https://github.com/JoannaBraccini/ProjetoDiscover-Rocketseat_DevLinks)  
-Landing page interativa com links personalizados e foco em portfólio.
+💻 [**DevLinks – Landing page de links pessoais e redes sociais**](https://joannabraccini.github.io/ProjetoDiscover-Rocketseat_DevLinks/)  
+🔗 [Código](https://github.com/JoannaBraccini/ProjetoDiscover-Rocketseat_DevLinks)  
+📌 Página personalizável com layout responsivo, boas práticas de acessibilidade e alternância entre modo claro/escuro.
 
-🔹 [**Pokedex**](https://github.com/JoannaBraccini/Pokedex-FrontEnd)  
-Catálogo de Pokémons com filtro, responsividade e consumo de API REST.
+💻 [**Sign App – Fluxo de Autenticação com Redux**](https://growdev-muireduxsignup.vercel.app/)  
+🔗 [Código](https://github.com/JoannaBraccini/GROWDEV-Bloco_3/tree/main/SignUpMUIredux)  
+📌 Autenticação com consumo de API REST, gerenciamento de estado com Redux e layout adaptável.
+
+💻 [**Pokedex – Catálogo de Pokémons**](https://pokedex-tawny-seven.vercel.app/)  
+🔗 [Código](https://github.com/JoannaBraccini/Pokedex-FrontEnd)  
+📌 Catálogo interativo com filtro de pokémons, responsividade e integração com API REST.
+
+💻 [**Financeiro Online – Gerenciador de Finanças Pessoais**](https://controle-financeiro-redux.vercel.app/login)  
+🔗 [Código](https://github.com/JoannaBraccini/GROWDEV-Bloco_3/tree/main/ControleFinanceiro)  
+📌 Aplicação full-stack com login seguro, histórico de transações e atualização de saldo em tempo real.
 
 ---
 
