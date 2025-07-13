@@ -80,8 +80,8 @@
 
 ### 🚀 Projetos em Destaque
 
-💻 **Let Me Ask – NLW Agents**
-🔗 [Código](https://github.com/JoannaBraccini/let-me-ask-agents)
+💻 **Let Me Ask – NLW Agents**  
+🔗 [Código](https://github.com/JoannaBraccini/let-me-ask-agents)  
 📌 Plataforma que permite criar salas para fazer perguntas e obter respostas utilizando o Google Gemini.
 
 💻 [**Growflix – Netflix Interface Clone**](https://growflix-tawny.vercel.app/)  
