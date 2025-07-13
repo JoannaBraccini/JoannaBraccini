@@ -62,7 +62,7 @@
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
 | NLW Agents Avançado | Rocketseat | 5 horas | [Ver certificado](https://app.rocketseat.com.br/certificates/ac2b405f-b72b-4202-a89d-87574a8e4ad8)|
-| DIO Campus Expert | DIO | 30 horas | [Ver certificado](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9iMmVlZTM1ODkxZjhmNTE5L0VVM2hBRXcwWGVkRXVlVGRpNDRWR1lFQjBYbzhBai1OYzZuSnFEcnRDdWw2dlE%5FZT12ZGswV20&cid=B2EEE35891F8F519&id=B2EEE35891F8F519%21s4c00e14d5d3444e7b9e4dd8b8e151981&parId=B2EEE35891F8F519%21103&o=OneUp) |
+| DIO Campus Expert 12 | DIO | 30 horas | [Ver certificado](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9iMmVlZTM1ODkxZjhmNTE5L0VVM2hBRXcwWGVkRXVlVGRpNDRWR1lFQjBYbzhBai1OYzZuSnFEcnRDdWw2dlE%5FZT12ZGswV20&cid=B2EEE35891F8F519&id=B2EEE35891F8F519%21s4c00e14d5d3444e7b9e4dd8b8e151981&parId=B2EEE35891F8F519%21103&o=OneUp) |
 | Formação CSS Web Developer | DIO | 43 horas | [Ver certificado](https://www.dio.me/certificate/MZJQXBUJ/share) |
 | WEX - End to End Engineering | DIO | 91 horas | [Ver certificado](https://www.dio.me/certificate/FYP8MBBY/share) |
 | Inglês Intermediário | Official EF SET | | [Ver certificado](https://cert.efset.org/jAcnds) |
