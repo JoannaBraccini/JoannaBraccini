@@ -65,7 +65,7 @@
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
-| Estágio & Carreira – Tecnologia e Inovação | Empower | 12 horas | [Ver certificado]([https://www.credly.com/badges/09f1cdab-05c7-418a-86d3-e256c627fd03/linked_in_profile](https://acrobat.adobe.com/id/urn:aaid:sc:US:7a52c74b-4714-449d-8b19-188ab4fb5b79?x_api_client_id=edge_extension_viewer&x_api_client_location=share)) |
+| Estágio & Carreira – Tecnologia e Inovação | Empower | 12 horas | [Ver certificado](https://acrobat.adobe.com/id/urn:aaid:sc:US:7a52c74b-4714-449d-8b19-188ab4fb5b79?x_api_client_id=edge_extension_viewer&x_api_client_location=share) |
 | Artificial Intelligence Fundamentals with Capstone | IBM | days | [Ver certificado](https://www.credly.com/badges/f122cfef-a50e-4876-92aa-8551be4895ed/linked_in_profile) |
 | Artificial Intelligence Fundamentals | IBM | hours | [Ver certificado](https://www.credly.com/badges/09f1cdab-05c7-418a-86d3-e256c627fd03/linked_in_profile) |
 | Imersão Cloud DevOps | Alura | 2 horas | [Ver certificado](https://cursos.alura.com.br/immersion/imersao-devops-google/user/joannabraccini/certificate) |
@@ -73,7 +73,7 @@
 | DIO Campus Expert 12 | DIO | 30 horas | [Ver certificado](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9iMmVlZTM1ODkxZjhmNTE5L0VVM2hBRXcwWGVkRXVlVGRpNDRWR1lFQjBYbzhBai1OYzZuSnFEcnRDdWw2dlE%5FZT12ZGswV20&cid=B2EEE35891F8F519&id=B2EEE35891F8F519%21s4c00e14d5d3444e7b9e4dd8b8e151981&parId=B2EEE35891F8F519%21103&o=OneUp) |
 | Formação CSS Web Developer | DIO | 43 horas | [Ver certificado](https://www.dio.me/certificate/MZJQXBUJ/share) |
 | WEX - End to End Engineering | DIO | 91 horas | [Ver certificado](https://www.dio.me/certificate/FYP8MBBY/share) |
-| Inglês Intermediário | Official EF SET | | [Ver certificado](https://cert.efset.org/jAcnds) |
+| Inglês Intermediário | Official EF SET | Avaliação | [Ver certificado](https://cert.efset.org/jAcnds) |
 | Starter Web Full Stack | Growdev | 1 ano | [Ver certificado](https://drive.google.com/file/d/1nBggflZCiIAbkRBIHAbql-PA-37QLjZ9/view?usp=sharing) |
 | Introdução ao Mundo dos Dados | Preditiva.ai | 7 horas | [Ver certificado](https://automacoes.s3.us-east-1.amazonaws.com/certificados/am9hbm5hYnJhY2NpbmlAZ21haWwuY29t-0.pdf) |
 | Análise de Dados e Inteligência de Negócios | Gran Faculdade | 30 horas | [Ver certificado](https://acrobat.adobe.com/id/urn:aaid:sc:US:fac00bfe-9267-4006-971a-fab5e875646b) |
