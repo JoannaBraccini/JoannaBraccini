@@ -10,32 +10,45 @@
   <img src="https://github.com/JoannaBraccini/prompts-for-podcast-generate-by-ia/blob/main/src/devpixel.png" alt="Joanna dev pixel art" width="250" />
 </p>
 
-### 👩‍💻 Sobre mim
+### ❤️ Sobre mim
 
-🎓 Formada na 19ª turma *Starter Web Full Stack* da [Growdev](https://www.growdev.com.br/)  
-📚 Aluna de *Engenharia de Software* na [Anhanguera](https://www.anhanguera.com/)  
+☕ Aluna da trilha Backend Java no programa [Elas + Tech](https://ada.tech/oportunidades/elas-mais-tech)  
+🎓 Graduanda em *Engenharia de Software* (12/2027) na [Anhanguera](https://www.anhanguera.com/)  
+💻 Concluí em 2025 a formação *Starter Web Full Stack - Turma 19* da [Growdev](https://www.growdev.com.br/)  
 🎶 Migrando da carreira musical para a tecnologia  
 📍 **Localização**: São Leopoldo - RS
 
 ---
 
-### 💼 Tecnologias que uso
+### 🌐 Linguagens
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=F24E1E)
+![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp&logoColor=512BD4)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26)
+![HTMLX](https://img.shields.io/badge/-HTMX-000?style=flat&logo=htmx&logoColor=3366CC)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css&logoColor=663399)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+### 👩🏻‍💻 Tecnologias
+
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=5FA04E)
+![.NET](https://img.shields.io/badge/-.NET-000?style=flat&logo=dotnet&logoColor=512BD4)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=F24E1E)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma&logoColor=2D3748)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes&logoColor=326CE5)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure&logoColor=0078D4)
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest&logoColor=C21325)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?style=flat&logo=springboot&logoColor=6DB33F)
+![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger&logoColor=85EA2D)
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman&logoColor=FF6C37)
+![Trello](https://img.shields.io/badge/-Trello-000?style=flat&logo=trello&logoColor=0052CC)
 
 ---
 
@@ -48,20 +61,15 @@
 
 ---
 
-### 🧠 Em aprendizado contínuo
-
-- Testes com Jest
-- Boas práticas de acessibilidade  
-- Engenharia de Software e arquitetura limpa  
-- Design System e documentação técnica
-
----
-
 ## 📜 Certificados
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
-| NLW Agents Avançado | Rocketseat | 5 horas | [Ver certificado](https://app.rocketseat.com.br/certificates/ac2b405f-b72b-4202-a89d-87574a8e4ad8)|
+| Estágio & Carreira – Tecnologia e Inovação | Empower | 12 horas | [Ver certificado]([https://www.credly.com/badges/09f1cdab-05c7-418a-86d3-e256c627fd03/linked_in_profile](https://acrobat.adobe.com/id/urn:aaid:sc:US:7a52c74b-4714-449d-8b19-188ab4fb5b79?x_api_client_id=edge_extension_viewer&x_api_client_location=share)) |
+| Artificial Intelligence Fundamentals with Capstone | IBM | days | [Ver certificado](https://www.credly.com/badges/f122cfef-a50e-4876-92aa-8551be4895ed/linked_in_profile) |
+| Artificial Intelligence Fundamentals | IBM | hours | [Ver certificado](https://www.credly.com/badges/09f1cdab-05c7-418a-86d3-e256c627fd03/linked_in_profile) |
+| Imersão Cloud DevOps | Alura | 2 horas | [Ver certificado](https://cursos.alura.com.br/immersion/imersao-devops-google/user/joannabraccini/certificate) |
+| NLW Agents Avançado | Rocketseat | 5 horas | [Ver certificado](https://app.rocketseat.com.br/certificates/ac2b405f-b72b-4202-a89d-87574a8e4ad8) |
 | DIO Campus Expert 12 | DIO | 30 horas | [Ver certificado](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9iMmVlZTM1ODkxZjhmNTE5L0VVM2hBRXcwWGVkRXVlVGRpNDRWR1lFQjBYbzhBai1OYzZuSnFEcnRDdWw2dlE%5FZT12ZGswV20&cid=B2EEE35891F8F519&id=B2EEE35891F8F519%21s4c00e14d5d3444e7b9e4dd8b8e151981&parId=B2EEE35891F8F519%21103&o=OneUp) |
 | Formação CSS Web Developer | DIO | 43 horas | [Ver certificado](https://www.dio.me/certificate/MZJQXBUJ/share) |
 | WEX - End to End Engineering | DIO | 91 horas | [Ver certificado](https://www.dio.me/certificate/FYP8MBBY/share) |
