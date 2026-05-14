@@ -65,6 +65,7 @@
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
+| Análise de Dados - Meus primeiros passos em python! - Turma de Março 2026 | Cursos PrograMaria | 20 horas | [Ver certificado]([https://acrobat.adobe.com/id/urn:aaid:sc:US:7a52c74b-4714-449d-8b19-188ab4fb5b79?x_api_client_id=edge_extension_viewer&x_api_client_location=share](https://colab.research.google.com/drive/1sGAM2r_UsU1nW-0M2X--Hazg10XmQKcR?usp=sharing)) |
 | Estágio & Carreira – Tecnologia e Inovação | Empower | 12 horas | [Ver certificado](https://acrobat.adobe.com/id/urn:aaid:sc:US:7a52c74b-4714-449d-8b19-188ab4fb5b79?x_api_client_id=edge_extension_viewer&x_api_client_location=share) |
 | Artificial Intelligence Fundamentals with Capstone | IBM | days | [Ver certificado](https://www.credly.com/badges/f122cfef-a50e-4876-92aa-8551be4895ed/linked_in_profile) |
 | Artificial Intelligence Fundamentals | IBM | hours | [Ver certificado](https://www.credly.com/badges/09f1cdab-05c7-418a-86d3-e256c627fd03/linked_in_profile) |
