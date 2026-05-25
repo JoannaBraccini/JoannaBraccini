@@ -12,7 +12,6 @@
 
 ### ❤️ Sobre mim
 
-☕ Aluna da trilha Backend Java no programa [Elas + Tech](https://ada.tech/oportunidades/elas-mais-tech)  
 🎓 Graduanda em *Engenharia de Software* (12/2027) na [Anhanguera](https://www.anhanguera.com/)  
 💻 Concluí em 2025 a formação *Starter Web Full Stack - Turma 19* da [Growdev](https://www.growdev.com.br/)  
 🎶 Migrando da carreira musical para a tecnologia  
