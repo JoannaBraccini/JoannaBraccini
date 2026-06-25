@@ -64,6 +64,7 @@
 
 | Curso                                                         | Plataforma             | Carga Horária | Certificado |
 |---------------------------------------------------------------|------------------------|---------------|-------------|
+| Trilha Back-end - Formação Artemisia Elas+ Tech | Ada | 92 horas | [Ver certificado](https://drive.google.com/file/d/1alRvAFxS9vjgsC6ebz43gh2vX8lIotod/view?usp=sharing) |
 | Análise de Dados - Meus primeiros passos em python! - Turma de Março 2026 | PrograMaria | 20 horas | [Ver certificado](https://euprogramo.thinkific.com/certificates/9feplqgsmo) |
 | Estágio & Carreira – Tecnologia e Inovação | Empower | 12 horas | [Ver certificado](https://acrobat.adobe.com/id/urn:aaid:sc:US:7a52c74b-4714-449d-8b19-188ab4fb5b79?x_api_client_id=edge_extension_viewer&x_api_client_location=share) |
 | Artificial Intelligence Fundamentals with Capstone | IBM | days | [Ver certificado](https://www.credly.com/badges/f122cfef-a50e-4876-92aa-8551be4895ed/linked_in_profile) |
